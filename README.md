@@ -2,4 +2,4 @@
 ## Práctica 3
 Repositorio para la práctica 3
 
-Incluye a continuación tu nombre y apellidos:
+Incluye a continuación tu nombre y apellidos: Izan de Geer Bernal
